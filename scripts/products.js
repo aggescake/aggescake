@@ -3,56 +3,56 @@
     image:'imgs/redvel.jpeg',
     name: 'Bolo Red Velvet',
     quantity: 1,
-    price: 'Isso é um sabor pra você se inspirar'
+    price: 'monte já o seu!'
   },
   {
     id: 'PRO1234101',
     image:'imgs/strawbery.jpeg',
     name: 'Chocolate com morango',
     quantity: 1,
-    price: 'Isso é um sabor pra você se inspirar'
+    price: ''
   }, 
   {
     id: 'PRO1234102',
     image:'imgs/cherry.jpg',
     name: 'Bolo de maracujá',
     quantity: 1,
-    price: 'Isso é um sabor pra você se inspirar'
+    price: 'monte já o seu!'
   },
   {
     id: 'PRO1234103',
     image:'imgs/chocolate.jpg',
     name:'Bolo de chocolate',
     quantity: 1,
-    price: 'Isso é um sabor pra você se inspirar'
+    price: 'monte já o seu!'
   },
   {
     id: 'PRO1234104',
     image:'imgs/brow.png',
     name:'Brownie',
     quantity: 1,
-    price: 'Isso é um sabor pra você se inspirar'
+    price: 'monte já o seu!'
   },
   {
     id: 'PRO1234105',
     image:'imgs/kiwi.jpg',
     name:'Bolo de Kiwi',
     quantity: 1,
-    price: 'Isso é um sabor pra você se inspirar'
+    price: 'monte já o seu!'
   },
   {
     id: 'PRO1234106',
     image:'imgs/fruit.jpg',
     name:'Bolo de frutas',
     quantity: 1,
-    price: 'Isso é um sabor pra você se inspirar'
+    price: 'monte já o seu!'
   },
   {
     id: 'PRO1234107',
     image:'imgs/dryfruits.jpeg',
     name:'Torta',
     quantity: 1,
-    price: 'Isso é um sabor pra você se inspirar'
+    price: 'monte já o seu!'
   }
 ];
 
